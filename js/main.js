@@ -45,7 +45,7 @@
     $(document).ready(function () {
         var $videoSrc;
         $('.btn-play').click(function () {
-            $videoSrc = $(this).data("src");
+            $videoSrc = $(this).data("folder/Cv (1).doc");
         });
         console.log($videoSrc);
 
